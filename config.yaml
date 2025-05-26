@@ -2,9 +2,11 @@
 # E*TRADE API
 # ───────────
 etrade:
+  base_url: "https://api.etrade.com"        # use sandbox: https://api.etrade.com.sandbox
   consumer_key: "<YOUR_CONSUMER_KEY>"
   consumer_secret: "<YOUR_CONSUMER_SECRET>"
   oauth_token_path: "auth_tokens.json"
+
 
 # ───────────
 # Trade sizing & rules
