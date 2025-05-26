@@ -32,3 +32,4 @@ tzlocal==5.3.1
 urllib3==2.4.0
 wheel==0.45.1
 PyYAML
+yfinance
